@@ -1,23 +1,49 @@
+## Python: Manipulating Lists
 
-# Python: Manipulating Lists
+### Getting Started
 
-## Objective
-
-> *Objective*
-
-## Getting Started
-
-- Read instructions and review the project resources
-- Create a **public** GitHub repo named: **repo name**
+- Create a GitHub repo named: **working-with-lists**
     - Upload your project files to the repo
-    - Submit the URL that points to your repo on Google Classroom
+    - No need to share your repo with your teacher
+    - Teacher will discuss your work with you during Teacher  Time
 
-## Resources & Examples
+- Create a NEW folder on your workstation desktop
+- Use VS Code to add your Python file to this new folder
 
-- http://www.example.com
-- https://www.washingtonpost.com/
 
-## Your Tasks
 
-- Task
-- Task
+### Objective
+
+> *In this practice project, you'll learn how to ----.*
+
+
+### Comments, anyone?
+
+- Add a comment block (*Working with Python Lists* as your project name)
+- Add a few brief comments to explain what the main parts of your script are doing
+
+### Your Tasks
+
+- Use comments to label each task in your script
+  - Example: # Part 1, # Part 2, etc.
+- Use f-strings to display the output for each task
+
+#### Task 1
+
+Text
+
+#### Task 2
+
+Text
+
+#### Task 3
+
+Text
+
+#### Task 4
+
+Text
+
+#### Task 5
+
+Text
